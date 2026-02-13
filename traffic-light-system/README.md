@@ -38,6 +38,8 @@ void loop() {
 }
 ```
 
-##Simulation
+## Simulation
 
-![Traffic Light Demo](images/tinkercad.gif)
+<p align="center">
+  <img src="images/tinkercad.gif" width="500">
+</p>
