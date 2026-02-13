@@ -39,4 +39,5 @@ void loop() {
 ```
 
 ##Simulation
+
 ![Traffic Light Demo](images/tinkercad.gif)
