@@ -37,3 +37,6 @@ void loop() {
   delay(5000);
 }
 ```
+
+##Simulation
+![Traffic Light Demo](images/tinkercad.gif)
