@@ -41,5 +41,11 @@ void loop() {
 ## Simulation
 
 <p align="center">
-  <img src="images/tinkercad.gif" width="500">
+  <img src="images/tinkercad.gif" width="750">
+</p>
+
+## Physical Setup
+
+<p align="center">
+  <img src="images/physicalcircuit.gif" width="750">
 </p>
